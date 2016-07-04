@@ -1,0 +1,194 @@
+[Mon 27/Jun/2016 10:53:02] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 10:58:07] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 10:59:07] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:01:01] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:01:21] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:08:52] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:09:22] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:09:44] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:11:44] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:12:59] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:13:38] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:19:35] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:20:29] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:21:03] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:22:09] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:22:33] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:22:55] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:23:16] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:28:07] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:29:35] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:31:15] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:32:31] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:34:12] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:36:32] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:42:31] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:42:46] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:43:57] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:46:01] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:46:20] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:47:04] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:52:50] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:53:12] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:55:29] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:56:18] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:57:00] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:57:17] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 11:57:29] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:07:48] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:09:00] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:10:48] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:12:09] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:12:28] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:12:46] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:12:51] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:12:55] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:13:04] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:13:13] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:14:53] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:15:02] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:15:14] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:15:22] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:15:31] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:15:38] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:16:02] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:16:53] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:16:57] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:17:04] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:17:22] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:17:36] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:17:55] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:18:09] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:18:19] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:20:18] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:21:53] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:22:47] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:23:00] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:23:10] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:23:27] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:23:54] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:24:44] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:25:00] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:32:10] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:32:46] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:33:14] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:33:46] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 12:58:04] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Mon 27/Jun/2016 12:58:04] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Mon 27/Jun/2016 12:58:04] Tidak bisa menjalankan function GetNews(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Mon 27/Jun/2016 12:58:10] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Mon 27/Jun/2016 12:58:10] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Mon 27/Jun/2016 12:58:10] Tidak bisa menjalankan function GetNews(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Mon 27/Jun/2016 12:58:12] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Mon 27/Jun/2016 12:58:12] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Mon 27/Jun/2016 12:58:12] Tidak bisa menjalankan function GetNews(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Mon 27/Jun/2016 12:58:33] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:00:09] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:00:59] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:01:13] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:02:03] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:27:47] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:28:59] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:30:15] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:31:01] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Mon 27/Jun/2016 01:32:06] App_Login | Step - 3 | Value cannot be null.
+Parameter name: value App_Login Price Failed
+[Tue 28/Jun/2016 01:06:45] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Tue 28/Jun/2016 01:06:45] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Tue 28/Jun/2016 01:06:45] Tidak bisa menjalankan function GetPriceDetail(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Tue 28/Jun/2016 01:26:07] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Tue 28/Jun/2016 01:26:07] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Tue 28/Jun/2016 01:26:07] Tidak bisa menjalankan function GetPriceDetail(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Wed 29/Jun/2016 07:35:27] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Wed 29/Jun/2016 07:35:28] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Wed 29/Jun/2016 07:35:28] Tidak bisa menjalankan function GetNews(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Wed 29/Jun/2016 07:35:28] An error occurred retrieval API data. Api Url. App_Login Price Failed
+[Wed 29/Jun/2016 07:35:28] An error occurred retrieval API data. Api Url. App_Login News Failed
+[Wed 29/Jun/2016 07:35:28] Tidak bisa menjalankan function GetNews(), AccessKey tidak valid, silahkan periksa parameter AppKey dan AppScreet.!!
+[Sat 02/Jul/2016 12:32:58] Tidak bisa menjalankan function GetProvinsi(), missing parameter i_prop
+[Sat 02/Jul/2016 12:33:06] Tidak bisa menjalankan function GetProvinsi(), missing parameter i_prop
+[Sat 02/Jul/2016 12:34:07] Tidak bisa menjalankan function GetProvinsi(), missing parameter i_prop
